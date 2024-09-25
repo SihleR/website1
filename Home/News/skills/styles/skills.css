@@ -1,0 +1,50 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* nav
+---------------------------------------------------
+Repeating
+--------------------------------------------------*/
+.blog-header {
+    line-height: 1;
+    border-bottom: 1px solid #e5e5e5;
+    font-size: 12px;
+  }
+  
+  .blog-header-logo {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-size: 33px;
+    text-decoration: none;
+  }
+  
+  .education-header {
+    max-width: 700px;
+  }
+  
+  html {
+    font-size: 12px;
+  }
+  @media (min-width: 768px) {
+    html {
+      font-size: 14px;
+    }
+  }
+  
+   /* 
+  ---------------------------------------------------
+  New Section
+  --------------------------------------------------*/
+
+
+
+
+
+/* hr */
+.featurette-divider {
+    margin: 1rem 0; /* Space out the Bootstrap <hr> more */
+  }
+
+  .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+

@@ -1,0 +1,44 @@
+* {
+  font-family: 'Space Mono', monospace;
+}
+
+/* nav
+---------------------------------------------------
+Repeating
+--------------------------------------------------*/
+html {
+    font-size: 14px;
+  }
+  @media (min-width: 768px) {
+    html {
+      font-size: 16px;
+    }
+  }
+  
+  .pricing-header {
+    max-width: 700px;
+  }
+  
+  .border-top { border-top: 1px solid #e5e5e5; }
+  .border-bottom { border-bottom: 1px solid #e5e5e5; }
+  
+  .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+  
+   /* 
+  ---------------------------------------------------
+  New Section
+  --------------------------------------------------*/
+
+  /*social */
+
+  
+li {
+    word-spacing: 12px;
+    padding-top: 15px;
+}
+
+
+.featurette-divider {
+    height: 20px;
+  }
+  

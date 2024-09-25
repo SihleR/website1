@@ -1,0 +1,86 @@
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+/* nav
+---------------------------------------------------
+Repeating
+--------------------------------------------------*/
+.blog-header {
+  line-height: 1;
+  border-bottom: 1px solid #e5e5e5;
+  font-size: 14px;
+}
+
+.blog-header-logo {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 35px;
+  text-decoration: none;
+}
+
+.education-header {
+  max-width: 700px;
+}
+
+html {
+  font-size: 11px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+
+/* New Section */
+
+/* image */
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+img {
+    width: 500px;
+    height: 550px;
+    border-radius: 8px;
+}
+
+/* post */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+
+
+.posta {
+  text-align :justify;
+  font-size: 14px;
+  font-family: 'Roboto Mono', monospace;
+  padding-bottom: 10px;
+  margin: 15px;
+}
+
+/* hyperlink */
+
+a:link {
+  color:black;
+  text-decoration: none;
+}
+a:visited {
+  color:black;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+a:active {
+  color: black;
+  text-decoration: none;
+}
+
+
